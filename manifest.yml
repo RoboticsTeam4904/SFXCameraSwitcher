@@ -1,13 +1,13 @@
 API: 0.1
-Name: Tutorial plugin
-Description: Contains all the plugins from the tutorial
+Name: Camera plugin
+Description: Contains camera switcher
 Version: 1.0.0
 # Please generate your own unique UUID and replace it below
-Plugin ID: b673b0fe-716a-40ce-b446-70e34aafc509
+Plugin ID: 25ef5ec9-d13c-4112-a1da-e5296aa79cb1
 Controls:
 -
-Name: Piston
-Description: Visual piston to display whether piston is in or out.
+Name: Camera
+Description: Camera stream
 Source: /camera.fxml
 Category: Tutorial
 Defaults:
