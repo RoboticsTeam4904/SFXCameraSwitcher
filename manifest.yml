@@ -6,9 +6,9 @@ Version: 1.0.0
 Plugin ID: 25ef5ec9-d13c-4112-a1da-e5296aa79cb1
 Controls:
 -
-Name: Camera
-Description: Camera stream
-Source: /camera.fxml
-Category: Tutorial
-Defaults:
-value: false
+  Name: Camera
+  Description: Camera stream
+  Source: /camera.fxml
+  Category: General
+  Defaults:
+  value: false
